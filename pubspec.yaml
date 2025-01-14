@@ -1,0 +1,23 @@
+name: task_manager
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.4.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: any
+  path: any
+  provider: any
+  http: any
+  flutter_colorpicker: any
+  sqflite_common_ffi: ^2.0.0
+
+flutter:
+  assets:
+    - lib/assets/
+  uses-material-design: true
