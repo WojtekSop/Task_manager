@@ -29,7 +29,7 @@ Aby uruchomić aplikację na swoim komputerze, postępuj zgodnie z poniższymi k
 2. **Pobierz repozytorium**:
    Skopiuj repozytorium na swój komputer:
    
-   git clone https://github.com/your-repository/task-manager-app.git
+   git clone [https://github.com/your-repository/task-manager-app.git](https://github.com/WojtekSop/Task_manager)
    cd task-manager-app
    
 3. Zainstaluj zależności: Zainstaluj wszystkie zależności projektu za pomocą polecenia:
