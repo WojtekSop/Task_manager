@@ -55,10 +55,10 @@ Ekran rejestracji, gdzie użytkownicy mogą założyć nowe konto podając login
 Ekran główny aplikacji, który wyświetla listę zadań użytkownika. Można dodać nowe zadanie, edytować istniejące lub je usunąć.
 
 4. EditScreen
-Ekran umożliwiający edytowanie zadania. Użytkownicy mogą zmieniać tytuł, zawartość, czcionkę, rozmiar czcionki, kolor zadania oraz zaznaczyć zadanie jako ukończone.
+Ekran umożliwiający edytowanie zadania. Użytkownicy mogą zmieniać tytuł, zawartość, ważność zadania, datę końcową wykonania zadania, kolor tekstu zadania oraz zaznaczyć zadanie jako ukończone.
 
 5. TaskTile
-Widok pojedynczego zadania, który wyświetla tytuł, zawartość oraz przycisk do edycji zadania. Kolor tła zadania jest dostosowywany na podstawie ustawionego koloru.
+Widok pojedynczego zadania, który wyświetla tytuł, zawartość oraz przycisk do edycji zadania. Kolor tekstu zadania jest dostosowywany na podstawie ustawionego koloru.
 
 Wymagania
 Flutter 3.0 lub nowszy
