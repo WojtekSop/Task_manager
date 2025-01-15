@@ -7,7 +7,7 @@ Task Manager to aplikacja do zarządzania zadaniami, która pozwala użytkowniko
 - **Logowanie** - Użytkownicy mogą zalogować się do aplikacji, wprowadzając swoje dane. ![zdjęcie logowania](lib/assets/Readme/logowanie.png)
 - **Rejestracja** - Użytkownicy mogą zarejestrować nowe konto w aplikacji. ![zdjęcie rejestracji](lib/assets/Readme/rejestracja.png)
 - **Lista Zadań** - Po zalogowaniu, użytkownik może przeglądać listę swoich zadań. Każde zadanie można edytować lub usunąć. ![zdjęcie pustej listy zadań](lib/assets/Readme/zadania.png)
-- **Edycja Zadania** - Użytkownicy mogą edytować tytuł, zawartość, czcionkę, rozmiar czcionki oraz kolor zadania. ![zdjęcie edycji zadania](lib/assets/Readme/edycja_zadania.png)
+- **Edycja Zadania** - Użytkownicy mogą edytować tytuł, zawartość, ważność zadania, datę końcową zadania oraz kolor tekstu zadania. ![zdjęcie edycji zadania](lib/assets/Readme/edycja_zadania.png)
 - **Dodawanie Zadań** - Użytkownicy mogą dodawać nowe zadania. ![zdjęcie dodanego zadania](lib/assets/Readme/dodawanie_zadania.png)
 - **Pogoda** - Aplikacja wyświetla aktualną pogodę w Warszawie na ekranie logowania. ![zdjęcie pogody](lib/assets/Readme/pogoda.png)
 
